@@ -1,7 +1,7 @@
 /*"Make sure that you at the beginning of the file detail who was responsible for what parts of the code"
 * Gwen Edgar: Original Navigation, Checkout, Navigation Debugging
 * Michaela Freed: Getting Items From Shelf/Counter, Navigation Debugging, Most Cartwork
-* Ray: ApproachRegister,Checkout,Leave
+* Ray: ApproachRegister, Checkout, Leave，Debugging
 */
 
 import java.util.Arrays;
